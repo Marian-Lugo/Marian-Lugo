@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on projects that allow me to grow professionally
 - 📫 How to reach me: mnelugo@gmail.com
   
-## Contact me
+## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%20yourname-blue)]([https://www.linkedin.com/in/marian-estigarribia/](https://www.linkedin.com/in/marian-estigarribia/))
 
 <!-- Technologies Section -->
