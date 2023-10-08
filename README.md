@@ -26,10 +26,10 @@
 - [Project 2](URL_OF_PROJECT_2) - A simple React app demonstrating my understanding of JavaScript.-->
 
 <!-- GitHub Stats Section -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marian-Lugo&show_icons=true&theme=radical)
 
 <!-- Most Used Languages Section -->
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Marian-Lugo&layout=compact&theme=radical)
 
 <!-- Closing Line -->
 #### Thanks for visiting my profile! I'm excited to learn and grow in the world of front-end development. If you have any tips, suggestions, or would like to collaborate on projects, feel free to reach out!
