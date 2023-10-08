@@ -1,4 +1,8 @@
-### Hi there 👋
+### <!-- Header -->
+# Hi there, I'm [Your Name]! 👋
+
+<!-- Subtitle -->
+## Frontend Developer and Tech Enthusiast
 
 <!--
 **Marian-Lugo/Marian-Lugo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
