@@ -7,7 +7,7 @@
 - 📫 How to reach me: mnelugo@gmail.com
   
 ## Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%20tunombre-blue))](https://www.linkedin.com/in/marian-estigarribia/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%20tunombre-blue)](https://www.linkedin.com/in/marian-estigarribia/)
 
 <!-- Technologies Section -->
 ### Technologies I'm Exploring:
