@@ -1,19 +1,13 @@
 <!-- Header -->
-# Hi there! I'm [Your Name] 👋
+# Hi there! I'm Marian 👋
 
 ## Junior Front End Developer on a Learning Journey
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-[![Website](https://img.shields.io/badge/Website-%20yourname.com-blue)](https://yourname.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%20yourname-blue)](https://www.linkedin.com/in/yourname/)
-[![Twitter](https://img.shields.io/badge/Twitter-%40yourname-blue)](https://twitter.com/yourname)
+- 🌱 I’m currently learning React.
+- 👯 I’m looking to collaborate on projects that allow me to grow professionally
+- 📫 How to reach me: mnelugo@gmail.com
+  
+## Contact me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%20yourname-blue)]([https://www.linkedin.com/in/yourname/](https://www.linkedin.com/in/marian-estigarribia/))
 
 <!-- Technologies Section -->
 ### Technologies I'm Exploring:
@@ -22,14 +16,14 @@
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E)
 ![React](https://img.shields.io/badge/React-%2361DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D)
-![SASS](https://img.shields.io/badge/SASS-%23CC6699)
+<!-- ![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D)
+![SASS](https://img.shields.io/badge/SASS-%23CC6699)-->
 
-<!-- Featured Projects Section -->
+<!-- Featured Projects Section 
 ### Featured Projects:
 
 - [Project 1](URL_OF_PROJECT_1) - An interactive web project showcasing my progress in HTML and CSS.
-- [Project 2](URL_OF_PROJECT_2) - A simple React app demonstrating my understanding of JavaScript.
+- [Project 2](URL_OF_PROJECT_2) - A simple React app demonstrating my understanding of JavaScript.-->
 
 <!-- GitHub Stats Section -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
