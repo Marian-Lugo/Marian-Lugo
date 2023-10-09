@@ -1,7 +1,7 @@
 <!-- Header -->
 # Hi there! I'm Marian 👋
 
-## Front End Developer Jr. on a learning journey
+## Jr. Front End Developer on a learning journey
 - 🌱 I’m currently learning React.
 - 👯 I’m looking to collaborate on projects that allow me to grow professionally
 - 📫 How to reach me: mnelugo@gmail.com
