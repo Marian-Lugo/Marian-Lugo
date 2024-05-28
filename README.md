@@ -32,7 +32,7 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Marian-Lugo&layout=compact&theme=radical)
 
 <!-- Closing Line -->
-#### Thanks for visiting my profile! I'm excited to learn and grow in the world of front-end development. If you have any tips, suggestions, or would like to collaborate on projects, feel free to reach out! 😄
+#### Thanks for visiting my profile! I'm excited to learn and grow in the world of web development. If you have any tips, suggestions, or would like to collaborate on projects, feel free to reach out! 😄
 
 
 
