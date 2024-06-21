@@ -2,8 +2,11 @@
 # Hi there! I'm Marian 👋
 
 💻 Crafting web experiences with JavaScript, jQuery, HTML, CSS, and Bootstrap.
+
 🌱 Eager to contribute to innovative projects and expand my skills.
+
 🚀 Seeking opportunities to grow professionally.
+
   
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%20Marian-blue)](https://www.linkedin.com/in/marian-estigarribia/)
