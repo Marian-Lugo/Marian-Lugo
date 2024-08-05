@@ -1,7 +1,7 @@
 <!-- Header -->
 # Hi there! I'm Marian 👋
 
-💻 Crafting web experiences with JavaScript, jQuery, HTML, CSS, and Bootstrap.
+💻 Development of web experiences with JavaScript, jQuery, HTML, CSS, and Bootstrap.
 
 🌱 Eager to contribute to innovative projects and expand my skills.
 
