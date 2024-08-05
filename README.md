@@ -3,7 +3,7 @@
 
 💻 Development of web experiences with JavaScript, jQuery, HTML, CSS, and Bootstrap.
 
-🌱 Eager to contribute to innovative projects and expand my skills.
+🌱 Looking forward to contributing to innovative projects and expanding my skills.
 
 🚀 Seeking opportunities to grow professionally.
 
